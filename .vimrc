@@ -156,6 +156,7 @@ inoremap {<Tab> <End><Space>{<CR><CR>}<Up><TAB>
 inoremap (<Space> <Space>(void)
 inoremap (<TAB> <Space>()<Left>
 inoremap [<Tab> []<Left>
+inoremap <S-TAB> <ESC>%%a
 map <C-k> <C-u>
 map <C-j> <C-d>
 inoremap <C-l> <ESC>ea
